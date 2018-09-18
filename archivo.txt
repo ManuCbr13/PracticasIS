@@ -2,3 +2,4 @@ archivo inicial
 he cambiado algo
 HOH
 
+archivo2
