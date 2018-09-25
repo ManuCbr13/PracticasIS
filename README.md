@@ -4,3 +4,8 @@
 2.b
 3.c
 * lista 1
+
+
+<div class=text-justify>
+  amborgesa
+  </div>
