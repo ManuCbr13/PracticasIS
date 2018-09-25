@@ -6,6 +6,6 @@
 * lista 1
 
 
-<div class=text-justify>
+<div class=pull-right>
   amborgesa
-  </div>
+</div>
